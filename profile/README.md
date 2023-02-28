@@ -4,7 +4,7 @@ Calculadora capaz de compara diferentes recursos existentes em clouds diferentes
 - AWS
 - Azure
 - Google Clouds
-- Tencent Clound
+- Tencent Cloud
 
 
 # Introdução
